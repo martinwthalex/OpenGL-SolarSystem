@@ -1,0 +1,5 @@
+Bibliografía de cosas obtenidas en Internet
+
+Texturas planetas: https://www.solarsystemscope.com/textures/
+
+El modelo de esfera es de: https://github.com/melfm/openGL-shading-texture/blob/master/Models/sphere.obj
